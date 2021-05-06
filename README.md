@@ -1,0 +1,1 @@
+Mini project to learn the basics of html, CSS and developer tools.
